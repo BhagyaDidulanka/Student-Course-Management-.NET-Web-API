@@ -3,9 +3,14 @@ The Student Course Management API is a .NET Web API designed to manage students 
 
 This project follows best practices, including:
 
-✔ Asynchronous Methods for better performance. 
-✔ Repository Pattern for modular and maintainable code. 
+✔ Asynchronous Methods for better performance.
+
+✔ Repository Pattern for modular and maintainable code.
+
 ✔ AutoMapper for seamless object mapping between Entities and DTOs. 
+
 ✔ FluentValidation for data validation. 
+
 ✔ Entity Framework Core (EF Core) with SQL Server for database management. 
+
 ✔ Swagger UI for easy API testing. 
