@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Student Course Management")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ced92caaef422ddd2c606eb3af876914484967fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c09ccf3b265da816624a22c8c34bc1df74c8314c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Student Course Management")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Student Course Management")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
