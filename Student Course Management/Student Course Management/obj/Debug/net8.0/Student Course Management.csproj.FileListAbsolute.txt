@@ -7,7 +7,6 @@ C:\Users\Asus\Desktop\new .net project\Student Course Management\Student Course 
 C:\Users\Asus\Desktop\new .net project\Student Course Management\Student Course Management\bin\Debug\net8.0\Student Course Management.dll
 C:\Users\Asus\Desktop\new .net project\Student Course Management\Student Course Management\bin\Debug\net8.0\Student Course Management.pdb
 C:\Users\Asus\Desktop\new .net project\Student Course Management\Student Course Management\bin\Debug\net8.0\AutoMapper.dll
-C:\Users\Asus\Desktop\new .net project\Student Course Management\Student Course Management\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Asus\Desktop\new .net project\Student Course Management\Student Course Management\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\Asus\Desktop\new .net project\Student Course Management\Student Course Management\bin\Debug\net8.0\Azure.Identity.dll
 C:\Users\Asus\Desktop\new .net project\Student Course Management\Student Course Management\bin\Debug\net8.0\FluentValidation.dll

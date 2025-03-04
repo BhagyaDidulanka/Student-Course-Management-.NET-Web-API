@@ -32,7 +32,9 @@ namespace Student_Course_Management.Repositories
         public async Task UpdateStudentAsync(Student student)
         {
             _context.Students.Update(student);
+            await _context.SaveChangesAsync();
         }
+
 
         public async Task DeleteStudentAsync(int id)
         {
